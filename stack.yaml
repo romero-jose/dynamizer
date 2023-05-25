@@ -4,6 +4,6 @@ packages:
 extra-deps:
 - random-extras-0.19
 - Stack-0.3.2
-- git: https://github.com/Gradual-Typing/language-grift.git
-  commit: 05009fe570a0cacf0c04db146cf94de5c3c2f2a9
+- git: https://github.com/romero-jose/language-grift.git
+  commit: 3b10285da0e17cd24f6f2282f08b9917d31758c9
 resolver: lts-20.22
