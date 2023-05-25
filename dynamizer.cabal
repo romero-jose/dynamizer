@@ -36,7 +36,6 @@ library dynamizer-lib
                      , mtl
                      , mwc-random
                      , random
-                     , random-extras
                      , random-fu
                      , random-shuffle
                      , rvar
