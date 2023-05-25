@@ -2,8 +2,8 @@ flags: {}
 packages:
 - '.'
 extra-deps:
-- random-extras-0.19
-- Stack-0.3.2
+- random-fu-0.3.0.1
+- random-source-0.3.0.12
 - git: https://github.com/romero-jose/language-grift.git
   commit: 3b10285da0e17cd24f6f2282f08b9917d31758c9
 resolver: lts-20.22
